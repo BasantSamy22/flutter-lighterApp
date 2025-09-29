@@ -1,16 +1,52 @@
-# lighterapp
+# Lighter App
 
-A new Flutter project.
+A simple Flutter app that simulates a lighter with interactive UI.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* Realistic lighter animation
+* On/Off toggle effect
+* Simple and clean design
+* Runs smoothly on Android & iOS
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![screenshots](screenshots/screen1.png)
+(![alt text](screenshots/screen2.png))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+
+1. Clone this repository
+
+   ```bash
+   git clone https://github.com/your-username/lighter-app.git
+   ```
+2. Navigate into the project folder
+
+   ```bash
+   cd lighter-app
+   ```
+3. Get the dependencies
+
+   ```bash
+   flutter pub get
+   ```
+4. Run the app
+
+   ```bash
+   flutter run
+   ```
+
+## 📱 Platforms Supported
+
+* Android
+* iOS
+
+## 🛠️ Tech Used
+
+* Flutter (Dart)
+* Material Design
+
+---
+
+Made with ❤️ using Flutter
